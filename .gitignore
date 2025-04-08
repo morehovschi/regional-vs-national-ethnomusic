@@ -3,3 +3,5 @@ data/(dis)similarities-22
 data/slovenian-folk-song-ballads
 readings/
 IDyOM/
+.ipynb_checkpoints/
+**/__pycache__/

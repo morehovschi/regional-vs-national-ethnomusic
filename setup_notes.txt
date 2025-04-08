@@ -1,0 +1,8 @@
+conda create -n ethno python=3.11
+conda activate ethno
+
+conda install jupyter
+conda install numpy
+
+cd IDyOM
+pip install -r requirements.txt
