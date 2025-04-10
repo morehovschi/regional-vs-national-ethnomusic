@@ -4,5 +4,7 @@ conda activate ethno
 conda install jupyter
 conda install numpy
 
-cd IDyOM
+git clone https://github.com/GuiMarion/IDyOMpy && cd IDyOM
 pip install -r requirements.txt
+
+pip install music21
