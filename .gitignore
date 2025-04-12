@@ -2,7 +2,11 @@
 data/(dis)similarities-22
 data/slovenian-folk-song-ballads
 readings/
+IDyOMPy/
 IDyOM/
 .ipynb_checkpoints/
 **/__pycache__/
 inter-data/
+experiment-history/
+data/
+deps/

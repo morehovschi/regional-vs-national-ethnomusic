@@ -4,7 +4,12 @@ conda activate ethno
 conda install jupyter
 conda install numpy
 
-git clone https://github.com/GuiMarion/IDyOMpy && cd IDyOM
 pip install -r requirements.txt
 
 pip install music21
+
+# install the IDyOM model and python wrapper for it
+# (macOS-specific workflow, Linux version available with some extra steps)
+git clone https://github.com/xinyiguan/py2lispIDyOM
+bash py2lispIDyOM/install_idyom/install_idyom.sh
+pip install py2lispIDyOM
