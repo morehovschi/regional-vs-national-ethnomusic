@@ -3,6 +3,8 @@ conda activate ethno
 
 conda install jupyter
 conda install numpy
+pip install seaborn
+pip install scikit-learn
 
 pip install -r requirements.txt
 

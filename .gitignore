@@ -7,6 +7,6 @@ IDyOM/
 .ipynb_checkpoints/
 **/__pycache__/
 inter-data/
-experiment-history/
+experiment_history/
 data/
 deps/
